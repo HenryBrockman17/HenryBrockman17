@@ -1,23 +1,3 @@
-```text
-        =+=+====+=-:-             henry@brockman
-   +++++===---==----====          ----------------------------------------
-  -=+==-----:::-------:=++        OS ..................... macOS, iOS
-  *+-:::------==***+#+::-=+*      Host ................... CS + ECON @ Cornell
-  --..:---=*####%%%%%#*-.:+%      IDE .................... VS Code, Xcode
-  -:.:++++**#####%%%%@@*::=*
-   :.-=-:::-+****=-==+%#: ..      Languages.Programming .. Python, C++, C#,
-   ..:-::::.::-+=--=+*##=..                                Java, JavaScript,
-   :::-:...::.=#*-::+*%%*-=                                Swift, OCaml, Stata,
-   ---=+**+=--+#%###%%%%#*#                                SQL
-    =--=+*#*-=+#%####%%%%%@       Languages.Real ......... English
-    =----+*+-::=+**+#%%%%#
-     -::------=+#%%#*#%%%         Hobbies.Software ....... Machine Learning / AI, App Dev
-      ::-++---=+**###%%%%         Hobbies.Hardware ....... PC Building, Network Engineering
-       ::-++==-=*%%%%%%@          Hobbies.Real ........... Golf
-       =:.:=+*#%%@@%%%@
-   :-:.=-:..:=+*##%%@@@*-=        Contact
-....   :-::..::=*%@@@@@+ ..:::    ----------------------------------------
-. .     ..:-=*#%%@@@@@#:  ...:    Email .................. hbrockman.program@gmail.com
-  .       ...:-=*#%#*-.      .    LinkedIn ............... linkedin.com/in/henrybrockman
-                                  GitHub ................. github.com/HenryBrockman17
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HenryBrockman17/HenryBrockman17/main/profile.svg" alt="henry@brockman — CS + ECON @ Cornell" width="900">
+</p>

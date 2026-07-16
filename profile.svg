@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="901" height="461" viewBox="0 0 901 461" font-family="'SFMono-Regular', 'Consolas', 'Liberation Mono', 'Courier New', monospace" font-size="15">
+<rect width="901" height="461" rx="10" fill="#22272e"/>
+<text xml:space="preserve" x="26" y="41" fill="#c9d1d9">        =+=+====+=-:-         </text>
+<text xml:space="preserve" x="26" y="61" fill="#c9d1d9">   +++++===---==----====      </text>
+<text xml:space="preserve" x="26" y="80" fill="#c9d1d9">  -=+==-----:::-------:=++    </text>
+<text xml:space="preserve" x="26" y="100" fill="#c9d1d9">  *+-:::------==***+#+::-=+*  </text>
+<text xml:space="preserve" x="26" y="119" fill="#c9d1d9">  --..:---=*####%%%%%#*-.:+%  </text>
+<text xml:space="preserve" x="26" y="139" fill="#c9d1d9">  -:.:++++**#####%%%%@@*::=*  </text>
+<text xml:space="preserve" x="26" y="158" fill="#c9d1d9">   :.-=-:::-+****=-==+%#: ..  </text>
+<text xml:space="preserve" x="26" y="178" fill="#c9d1d9">   ..:-::::.::-+=--=+*##=..   </text>
+<text xml:space="preserve" x="26" y="197" fill="#c9d1d9">   :::-:...::.=#*-::+*%%*-=   </text>
+<text xml:space="preserve" x="26" y="217" fill="#c9d1d9">   ---=+**+=--+#%###%%%%#*#   </text>
+<text xml:space="preserve" x="26" y="236" fill="#c9d1d9">    =--=+*#*-=+#%####%%%%%@   </text>
+<text xml:space="preserve" x="26" y="256" fill="#c9d1d9">    =----+*+-::=+**+#%%%%#    </text>
+<text xml:space="preserve" x="26" y="275" fill="#c9d1d9">     -::------=+#%%#*#%%%     </text>
+<text xml:space="preserve" x="26" y="295" fill="#c9d1d9">      ::-++---=+**###%%%%     </text>
+<text xml:space="preserve" x="26" y="314" fill="#c9d1d9">       ::-++==-=*%%%%%%@      </text>
+<text xml:space="preserve" x="26" y="334" fill="#c9d1d9">       =:.:=+*#%%@@%%%@       </text>
+<text xml:space="preserve" x="26" y="353" fill="#c9d1d9">   :-:.=-:..:=+*##%%@@@*-=    </text>
+<text xml:space="preserve" x="26" y="373" fill="#c9d1d9">....   :-::..::=*%@@@@@+ ..:::</text>
+<text xml:space="preserve" x="26" y="392" fill="#c9d1d9">. .     ..:-=*#%%@@@@@#:  ...:</text>
+<text xml:space="preserve" x="26" y="412" fill="#c9d1d9">  .       ...:-=*#%#*-.      .</text>
+<text x="337" y="41" fill="#6cb6ff" font-weight="bold">henry@brockman</text>
+<text xml:space="preserve" x="337" y="61" fill="#545d68">----------------------------------------</text>
+<text xml:space="preserve" x="337" y="80"><tspan fill="#f0883e">OS</tspan><tspan fill="#545d68"> ..................... </tspan><tspan fill="#adbac7">macOS, iOS</tspan></text>
+<text xml:space="preserve" x="337" y="100"><tspan fill="#f0883e">Host</tspan><tspan fill="#545d68"> ................... </tspan><tspan fill="#adbac7">CS + ECON @ Cornell</tspan></text>
+<text xml:space="preserve" x="337" y="119"><tspan fill="#f0883e">IDE</tspan><tspan fill="#545d68"> .................... </tspan><tspan fill="#adbac7">VS Code, Xcode</tspan></text>
+<text xml:space="preserve" x="337" y="158"><tspan fill="#f0883e">Languages.Programming</tspan><tspan fill="#545d68"> .. </tspan><tspan fill="#adbac7">Python, C++, C#,</tspan></text>
+<text xml:space="preserve" x="337" y="178" fill="#adbac7">                         Java, JavaScript,</text>
+<text xml:space="preserve" x="337" y="197" fill="#adbac7">                         Swift, OCaml, Stata,</text>
+<text xml:space="preserve" x="337" y="217" fill="#adbac7">                         SQL</text>
+<text xml:space="preserve" x="337" y="236"><tspan fill="#f0883e">Languages.Real</tspan><tspan fill="#545d68"> ......... </tspan><tspan fill="#adbac7">English</tspan></text>
+<text xml:space="preserve" x="337" y="275"><tspan fill="#f0883e">Hobbies.Software</tspan><tspan fill="#545d68"> ....... </tspan><tspan fill="#adbac7">Machine Learning / AI, App Dev</tspan></text>
+<text xml:space="preserve" x="337" y="295"><tspan fill="#f0883e">Hobbies.Hardware</tspan><tspan fill="#545d68"> ....... </tspan><tspan fill="#adbac7">PC Building, Network Engineering</tspan></text>
+<text xml:space="preserve" x="337" y="314"><tspan fill="#f0883e">Hobbies.Real</tspan><tspan fill="#545d68"> ........... </tspan><tspan fill="#adbac7">Golf</tspan></text>
+<text x="337" y="353" fill="#f0883e" font-weight="bold">Contact</text>
+<text xml:space="preserve" x="337" y="373" fill="#545d68">----------------------------------------</text>
+<text xml:space="preserve" x="337" y="392"><tspan fill="#f0883e">Email</tspan><tspan fill="#545d68"> .................. </tspan><tspan fill="#adbac7">hbrockman.program@gmail.com</tspan></text>
+<text xml:space="preserve" x="337" y="412"><tspan fill="#f0883e">LinkedIn</tspan><tspan fill="#545d68"> ............... </tspan><tspan fill="#adbac7">linkedin.com/in/henrybrockman</tspan></text>
+<text xml:space="preserve" x="337" y="431"><tspan fill="#f0883e">GitHub</tspan><tspan fill="#545d68"> ................. </tspan><tspan fill="#adbac7">github.com/HenryBrockman17</tspan></text>
+</svg>
